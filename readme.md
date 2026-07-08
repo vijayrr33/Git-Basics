@@ -1,5 +1,3 @@
-# My First Git Project
-
 # Git Basics
 
 A practical guide to Git fundamentals, including setup, commonly used commands, branching, and workflows.
